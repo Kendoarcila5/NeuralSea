@@ -1,0 +1,13 @@
+NeuralSea/
+├─ pages/
+│   ├─ index.js
+│   ├─ mint.js
+│   └─ profile.js
+├─ components/
+│   └─ WalletConnect.js
+├─ public/
+│   ├─ logo.png
+│   └─ banner.png
+├─ styles/
+│   └─ globals.css
+└─ README.md
